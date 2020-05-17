@@ -21,7 +21,6 @@ Uses [Abc](https://deno.land/x/abc), [MongoDB](https://deno.land/x/mongo) and [D
 ## Routes
 - GET `/dogs` : Fetches list of all dogs
 - POST `/dogs` : Let's you create a dog
-  Request Schema:  
 ```
 {
   "name": "Cheddar",
